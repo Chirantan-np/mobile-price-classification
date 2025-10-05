@@ -76,5 +76,5 @@ Mobile-Price-Prediction/
 ## 👨‍💻 Author
 **Chirantan Pain**  
 MSc Mathematics | NIT Rourkela  
-📧 [Add your email here]  
-🔗 [Add your GitHub/LinkedIn link here]
+📧 [chirantanpain@gmail.com]  
+🔗 [LinkedIn](https://www.linkedin.com/in/chirantan-pain-b88a0334b/)
